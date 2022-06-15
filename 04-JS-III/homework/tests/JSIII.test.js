@@ -20,7 +20,7 @@ const {
   mayorACien,
   breakStatement,
   continueStatement
-} = require('../homework');
+} = require('../homework2');
 
 describe('devolverPrimerElemento(arr)', function() {
   it('should return the first item in the array', function() {
