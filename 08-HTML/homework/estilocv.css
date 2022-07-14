@@ -3,7 +3,7 @@ h1{
     color : blue;
    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    background-color:brown;
+    background-color:yellow;
 }
 h2{
     color: aqua;
@@ -13,4 +13,9 @@ h2{
 }
 #img{
 text-align-last: justify ;
+}
+#fn{
+    background-color: yellow;
+    font-size: 15px;
+    font-family: serif;
 }
