@@ -1,0 +1,5 @@
+Hola amigo te explico que son las funciones callback 
+bien en programacion al declarar una funcion tu invocas en el parametro
+tipos de datos como string int double, ahora cuando tu invocas como parametro otra funcion
+a eso le llamamos callback es una funcion que recibe en una de sus parametros otra funcion
+.
